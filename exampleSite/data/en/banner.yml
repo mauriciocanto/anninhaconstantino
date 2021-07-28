@@ -1,12 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Consultoria de Imagem e Estilo"
+  content : "Eu vou te apresentar os benefícios de conhecer a sua imagem por completo!"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Saiba mais"
     link : "#services"
