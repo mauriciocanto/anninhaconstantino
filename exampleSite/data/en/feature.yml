@@ -8,19 +8,19 @@ feature:
       # feature item loop
     - title : Auto estima
       icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
-      content : Conhecer mais
+      content : Eu vou te ajudar a começar o seu processo de auto conhecimento e adequação de imagem.
 
       # feature item loop
     - title : Mais cores
       icon : ti-wand # themify icon pack : https://themify.me/themify-icons
-      content : Misturar mais as cores
+      content : Vamos descobrir as cores que mais lhe favorecem, que realçam a sua beleza natural potencializando os seu olhos, deixando sua pele mais iluminada e suavizando manchinhas e linhas de expressão.
 
       # feature item loop
     - title : Looks
       icon : ti-shopping-cart-full # themify icon pack : https://themify.me/themify-icons
-      content : Montagem de looks
+      content : Ao final da consultoria, você receberá um dossiê digital com suas caracteristicas e opções de looks.
 
       # feature item loop
     - title : Apresentação
       icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-      content : Apresentação diferenciada
+      content : No fim tudo será modificado para a forma como você deseja se apresentar.
