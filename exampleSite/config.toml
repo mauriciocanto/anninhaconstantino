@@ -14,37 +14,29 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Sobre a Consultoria"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Serviços"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "Sobre a Anninha"
+url = "#team"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
+name = "Pacotes"
 url = "#pricing"
-weight = 5
+weight = 4
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 5
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 6
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
