@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : "images/backgrounds/hero-area.jpg"
+  image : "images/backgrounds/anninha-cores.jpg"
   title : Consultoria de Imagem e Estio.
   content : "Os benefícios de descobrir mais sobre você."
   feature_item :

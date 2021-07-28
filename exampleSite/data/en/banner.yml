@@ -1,7 +1,7 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image : "images/backgrounds/about-business-man.jpg"
+  bg_image : "images/about/anninha-consultora.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : ""
   content : ""
