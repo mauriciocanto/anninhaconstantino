@@ -1,8 +1,4 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Sobre a Consultoria
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : O que é a Consultoria de Imagem e Estilo?
-    content : A consultoria de imagem e estilo é muito mais sobre você do que sobre moda.
+  title : A Consultoria
