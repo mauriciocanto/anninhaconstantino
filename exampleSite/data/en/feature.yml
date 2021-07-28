@@ -2,26 +2,25 @@
 feature:
   enable : true
   image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  title : Consultoria de Imagem e Estio.
+  content : "Os benefícios de descobrir mais sobre você."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Auto estima
+      icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      content : Conhecer mais
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : Mais cores
+      icon : ti-wand # themify icon pack : https://themify.me/themify-icons
+      content : Misturar mais as cores
+
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Looks
+      icon : ti-shopping-cart-full # themify icon pack : https://themify.me/themify-icons
+      content : Montagem de looks
+
+      # feature item loop
+    - title : Apresentação
+      icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+      content : Apresentação diferenciada
