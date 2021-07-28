@@ -1,10 +1,10 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/about-business-man.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Consultoria de Imagem e Estilo"
-  content : "Eu vou te apresentar os benefícios de conhecer a sua imagem por completo!"
+  title : ""
+  content : ""
   button:
     enable : true
     label : "Saiba mais"
