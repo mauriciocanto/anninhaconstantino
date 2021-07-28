@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
+  image : "images/backgrounds/hero-area.jpg"
   title : Consultoria de Imagem e Estio.
   content : "Os benefícios de descobrir mais sobre você."
   feature_item :
